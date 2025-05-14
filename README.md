@@ -77,7 +77,7 @@ This project is for educational purposes only. The scraped data is publicly avai
 ## 📧 Contact
 
 For questions or collaborations:
-**Your Name**  
-[LinkedIn](https://linkedin.com/in/yourprofile)  
-your.email@example.com
+**Oluwakoya Oluwafemi**  
+📧 [oluwakoyafavour@gmail.com](mailto:oluwakoyafavour@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/oluwakoya)
 
